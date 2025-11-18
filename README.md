@@ -33,5 +33,5 @@ BSc in Economics & Data Science @HSLU ✅ | MSc in Informatics (Data Science) @U
 ---
 
 ## 📈 GitHub Stats
-![Leon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Leon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeonidWouters&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
