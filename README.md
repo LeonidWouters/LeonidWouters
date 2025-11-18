@@ -8,8 +8,8 @@ BSc in Economics & Data Science @HSLU ✅ | MSc in Informatics (Data Science) @U
 ## ⚡ Skills & Tools
 - **Languages:** Python, SQL, Bash  
 - **Data & ML:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch  
-- **Visualization:** Plotly, Matplotlib, Seaborn, Mapbox GL JS  
-- **Other:** Git, Jupyter, PostgreSQL/PostGIS, Streamlit 
+- **Visualization:** Plotly, Matplotlib, Seaborn, Streamlit 
+- **Other:** Git, Jupyter, PostgreSQL/PostGIS, QGIS
 
 ---
 
