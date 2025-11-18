@@ -5,23 +5,16 @@ BSc in Economics & Data Science @HSLU ✅ | MSc in Informatics (Data Science) @U
 
 ---
 
-## 🔭 Current Projects
-- **Carsharing Data Analysis** – Exploring mobility patterns with Python & geospatial data.  
-- **Brain Tumor Detection NN** – Neural network for medical image analysis using TensorFlow.  
-- **Interactive Visualizations** – Dashboards & Mapbox visualizations for real-world datasets.  
-
----
-
 ## ⚡ Skills & Tools
-- **Languages:** Python, SQL, R, Bash  
+- **Languages:** Python, SQL, Bash  
 - **Data & ML:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch  
 - **Visualization:** Plotly, Matplotlib, Seaborn, Mapbox GL JS  
-- **Other:** Git, Jupyter, PostgreSQL/PostGIS, Flask  
+- **Other:** Git, Jupyter, PostgreSQL/PostGIS, Streamlit 
 
 ---
 
 ## 📫 Connect
-[LinkedIn](https://www.linkedin.com/) | [Portfolio](#)  
+[LinkedIn](www.linkedin.com/in/leonidwouters) | [Portfolio](#)  
 
 ---
 
@@ -29,9 +22,4 @@ BSc in Economics & Data Science @HSLU ✅ | MSc in Informatics (Data Science) @U
 - Ex-structural draftsman 🏗️  
 - Coffee ☕ and data nerd 🐍  
 - Graphs occasionally messy, but always insightful 😄
-
----
-
-## 📈 GitHub Stats
-![Leon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeonidWouters&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
