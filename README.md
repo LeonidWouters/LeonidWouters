@@ -14,7 +14,7 @@ BSc in Economics & Data Science @HSLU ✅ | MSc in Informatics (Data Science) @U
 ---
 
 ## 📫 Connect
-[LinkedIn](www.linkedin.com/in/leonidwouters) | [Portfolio](#)  
+www.linkedin.com/in/leonidwouters
 
 ---
 
