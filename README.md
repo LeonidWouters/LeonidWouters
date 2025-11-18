@@ -19,7 +19,7 @@ www.linkedin.com/in/leonidwouters
 ---
 
 ## 🎨 Fun Facts
-- Ex-structural draftsman 🏗️  
-- Coffee ☕ and data nerd 🐍  
+- I love spaghetti 🍝 … both on my plate and not in my code
+- Coffee ☕ and data nerd 🐍
 - Graphs occasionally messy, but always insightful 😄
 
