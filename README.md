@@ -20,6 +20,5 @@ www.linkedin.com/in/leonidwouters
 
 ## 🎨 Fun Facts
 - I love spaghetti 🍝 … but on my plate and not in my code
-- Coffee ☕ and data nerd 🐍
 - Graphs occasionally messy, but always insightful 😄
 
